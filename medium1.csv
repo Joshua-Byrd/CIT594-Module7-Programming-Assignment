@@ -1,0 +1,3 @@
+from,to,sequence_number,message
+alice,bob,5,"Thoughts on so-called ""quotes""?"
+bob,alice,6,"only if they say something interesting"

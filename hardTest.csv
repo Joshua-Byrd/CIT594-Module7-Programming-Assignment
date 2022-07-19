@@ -1,0 +1,10 @@
+from,to,sequence_number,message
+alice, bob, 3,"do you like newlines?
+like this?"
+bob,alice,4,"meh"
+alice,bob,1,"""h""ello"
+alice,bob,1,"h""ello"
+alice,"bob",1,"h""ello"
+alice,bob,"1",""h""ello"
+alice,"bo""b",1,"hello"
+alice,"bo""b","1","hello"
